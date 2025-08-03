@@ -1,0 +1,6 @@
+@ChatSever_HostAddress = http://localhost:5219
+
+GET {{ChatSever_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

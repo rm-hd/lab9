@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EN6s4ps/wOU=",
+  "success": true,
+  "projectFilePath": "/home/mahmoud-hamdar/RiderProjects/lab9/ChatSever/ChatSever.csproj",
+  "expectedPackageFiles": [
+    "/home/mahmoud-hamdar/.nuget/packages/microsoft.aspnetcore.openapi/9.0.7/microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "/home/mahmoud-hamdar/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
